@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eden</h1>
 
-a passionate **M1 FinTech student at ESILV (École Supérieure d'Ingénieurs Léonard de Vinci)**. My journey blends cutting-edge technology, financial innovation, and creativity, with a keen interest in Blockchain, FinTech and AI.
+A passionate **M1 FinTech student at ESILV (École Supérieure d'Ingénieurs Léonard de Vinci)**. My journey blends cutting-edge technology, financial innovation, and creativity, with a keen interest in Blockchain, FinTech and AI.
 
 ## 🚀 About Me
 
@@ -10,7 +10,7 @@ a passionate **M1 FinTech student at ESILV (École Supérieure d'Ingénieurs Lé
 - 🎮 **Current Projects**:
   - Building a **stealth project** using blockchain.
 - 💼 **Experience**:
-  - Front-end & Back-end development for **decID** during **IXH24**, an **XRPL hackathon in Italy**, where the team achieved **2nd place**.
+  - Front-end & Back-end development for **KindQuest** during **Blockchain for Impact**, an **XRPL hackathon in Paris headquarter**, where the team achieved **2nd place**.
   - Front-end & Back-end development for **decID** during **IXH24**, an **XRPL hackathon in Italy**, where the team achieved **2nd place**.
   
 - 🤝 **Community**:
@@ -21,7 +21,7 @@ a passionate **M1 FinTech student at ESILV (École Supérieure d'Ingénieurs Lé
 | 🏅 **Prize** | 🚀 **Project** | 📅 **Date** | 🌍 **Location** |
 | --- | --- | --- | --- |
 | 💰 **2nd Place @ IXH24 (XRPL)** | [decID](https://github.com/KyllianGenot/decID) | **Nov 2024** | [IXH24 Hackathon](https://www.xrpl-commons.org/hackathons/ixh24-italian-xrpl-hackathon-2024) |
-| 💰 **2nd Place @ Blockchain for Impact (UNESCO ITEN & XRPL)** | [KindQuest](https://github.com/M-Amaury/KindQuest) | **Nov 2024** | [XRPL Hackathon] (https://www.xrpl-commons.org/hackathons/blockchain-for-impact-innovating-the-social-economy) |
+| 💰 **2nd Place @ Blockchain for Impact (UNESCO ITEN & XRPL)** | [KindQuest](https://github.com/M-Amaury/KindQuest) | **Nov 2024** | [XRPL Hackathon](https://www.xrpl-commons.org/hackathons/blockchain-for-impact-innovating-the-social-economy) |
 
 ## 🛠️ Languages and Tools:
 
@@ -32,11 +32,10 @@ a passionate **M1 FinTech student at ESILV (École Supérieure d'Ingénieurs Lé
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![PineScript](https://img.shields.io/badge/PineScript-009988?style=for-the-badge&logo=tradingview&logoColor=white)
 
 ## 🌍 Let's Collaborate
 
-- 💼 LinkedIn: **[[Eden BD1]((https://www.linkedin.com/in/eden-baud1/)]**
+- 💼 LinkedIn: **[[Eden BD1](https://www.linkedin.com/in/eden-baud1/)]**
 - 📧 Email: **[edenbaud1@gmail.com]**
 
 -->
