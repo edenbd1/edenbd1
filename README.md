@@ -2,7 +2,7 @@
 
 A passionate **M1 FinTech student at ESILV (École Supérieure d'Ingénieurs Léonard de Vinci)**.  
 
-I'm particularly interested in **Blockchain**, **FinTech**, and **AI**.
+I'm particularly interested in **Blockchain**, **FinTech**, and **Software Development**.
 
 ## 🚀 About Me
 
