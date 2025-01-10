@@ -27,8 +27,8 @@ Here are some recent projects and awards I'm proud of:
 
 | 🏅 **Prize**              | 🚀 **Project**    | 📅 **Date**        | 🌍 **Location**                                                       |
 |--------------------------|------------------|-------------------|----------------------------------------------------------------------|
-| 💰 **2nd Place** @IXH24   | [decID](https://github.com/RomThpt/decID) | **Nov 2024** | [IXH24 Hackathon (Italy)](https://www.xrpl-commons.org/hackathons/ixh24-italian-xrpl-hackathon-2024) |
-| 💰 **2nd Place** @Blockchain for Impact | [KindQuest](https://github.com/M-Amaury/KindQuest) | **Nov 2024** | [XRPL Hackathon (Paris HQ)](https://www.xrpl-commons.org/hackathons/blockchain-for-impact-innovating-the-social-economy) |
+| 💰 **2nd Place** @IXH24 (XRPL)  | [decID](https://github.com/RomThpt/decID) | **Nov 2024** | [IXH24 Hackathon (Italy)](https://www.xrpl-commons.org/hackathons/ixh24-italian-xrpl-hackathon-2024) |
+| 💰 **2nd Place** @Blockchain for Impact (UNESCO ITEN & XRPL) | [KindQuest](https://github.com/M-Amaury/KindQuest) | **Nov 2024** | [XRPL Hackathon (Paris HQ)](https://www.xrpl-commons.org/hackathons/blockchain-for-impact-innovating-the-social-economy) |
 
 ---
 
