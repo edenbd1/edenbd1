@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eden</h1>
 
-A passionate **M1 FinTech student at ESILV (École Supérieure d'Ingénieurs Léonard de Vinci)**. My journey blends cutting-edge technology, financial innovation, and creativity, with a keen interest in Blockchain, FinTech and AI.
+A passionate **M1 FinTech student at ESILV (École Supérieure d'Ingénieurs Léonard de Vinci)**. 
+My journey blends cutting-edge technology, financial innovation, and creativity, with a keen interest in Blockchain, FinTech and AI.
 
 ## 🚀 About Me
 
 - 🔭 **Job**: I’m currently IS Project Manager.
 - 🎓 **Education**: Engineering background in Science, Mathematics, Fintech and Blockchain.
-- 🏦 **Interests**: Blockchain, FinnTech and Software Development.
+- 🏦 **Interests**: Blockchain, FinTech and Software Development.
 - 🎮 **Current Projects**:
   - Building a **stealth project** using blockchain.
 - 💼 **Experience**:
