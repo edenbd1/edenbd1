@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eden</h1>
 
-A passionate **M1 FinTech student at ESILV (École Supérieure d'Ingénieurs Léonard de Vinci)**. 
-My journey blends cutting-edge technology, financial innovation, and creativity, with a keen interest in Blockchain, FinTech and AI.
+A passionate **M1 FinTech student at ESILV (École Supérieure d'Ingénieurs Léonard de Vinci)**.  
+My journey blends cutting-edge technology, financial innovation, and creativity.  
+I'm particularly interested in **Blockchain**, **FinTech**, and **AI**.
 
 ## 🚀 About Me
 
