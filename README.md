@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eden</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=29AFB3&center=true&vCenter=true&width=600&lines=M1+FinTech+Student+%7C+Blockchain+Enthusiast;IS+Project+Manager+%7C+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=29AFB3&center=true&vCenter=true&width=700&lines=M1+FinTech+Student+%7C+Blockchain+Enthusiast;IS+Project+Manager+%7C+Software+Developer" alt="Typing SVG" />
 </p>
 
 ---
