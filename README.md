@@ -22,7 +22,7 @@ I'm particularly interested in **Blockchain**, **FinTech**, and **AI**.
 
 | 🏅 **Prize** | 🚀 **Project** | 📅 **Date** | 🌍 **Location** |
 | --- | --- | --- | --- |
-| 💰 **2nd Place @IXH24 (XRPL)** | [decID](https://github.com/KyllianGenot/decID) | **Nov 2024** | [IXH24 Hackathon](https://www.xrpl-commons.org/hackathons/ixh24-italian-xrpl-hackathon-2024) |
+| 💰 **2nd Place @IXH24 (XRPL)** | [decID](https://github.com/RomThpt/decID) | **Nov 2024** | [IXH24 Hackathon](https://www.xrpl-commons.org/hackathons/ixh24-italian-xrpl-hackathon-2024) |
 | 💰 **2nd Place @Blockchain for Impact (UNESCO ITEN & XRPL)** | [KindQuest](https://github.com/M-Amaury/KindQuest) | **Nov 2024** | [XRPL Hackathon](https://www.xrpl-commons.org/hackathons/blockchain-for-impact-innovating-the-social-economy) |
 
 ## 🛠️ Languages and Tools:
