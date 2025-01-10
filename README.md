@@ -1,7 +1,6 @@
-<!--
-# Welcome to <a href="https://www.linkedin.com/in/edenbd1/"</a> GitHub Repository 🌟
+<h1 align="center">Hi 👋, I'm Eden</h1>
 
-Hi there! I'm **Eden BD1**, a passionate **M1 FinTech student at ESILV (École Supérieure d'Ingénieurs Léonard de Vinci)**. My journey blends cutting-edge technology, financial innovation, and creativity, with a keen interest in Blockchain, FinTech and AI.
+a passionate **M1 FinTech student at ESILV (École Supérieure d'Ingénieurs Léonard de Vinci)**. My journey blends cutting-edge technology, financial innovation, and creativity, with a keen interest in Blockchain, FinTech and AI.
 
 ## 🚀 About Me
 
