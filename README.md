@@ -22,8 +22,8 @@ I'm on a journey to build impactful solutions by merging finance and technology 
 | 🥈 **2nd Place Flare 🃏 Wildcard Award Ledger** | [**UpCent**](https://ethglobal.com/showcase/upcent-0ujwn) | **Aug 2025** | [ETHGlobal New York](https://ethglobal.com/events/newyork2025) |
 | 🥇 **1st Place** | [**WaveTip**](https://github.com/WaveTip) | **Jun 2025** | [Apex by Ripple (Singapore)](https://www.easya.io/events/easya-ripple-apex-hackathon) |
 | 🥈 **2nd Place Ripple** | [**WaveTip**](https://github.com/WaveTip) | **Mar 2025** | [ETHDenver](https://ethdenver2025.devfolio.co/) |
-| 🥈 **2nd Place** @IXH24 (XRPL) | **decID** | **Nov 2024** | [IXH24 Hackathon (Rome)](https://www.xrpl-commons.org/hackathons/ixh24-italian-xrpl-hackathon-2024) |
-| 🥈 **2nd Place** @Blockchain for Impact (UNESCO ITEN & XRPL) | **KindQuest** | **Nov 2024** | [XRPL Hackathon (Paris HQ)](https://www.xrpl-commons.org/hackathons/blockchain-for-impact-innovating-the-social-economy) |
+| 🥈 **2nd Place** XRPL | **decID** | **Nov 2024** | [IXH24 Hackathon (Rome)](https://www.xrpl-commons.org/hackathons/ixh24-italian-xrpl-hackathon-2024) |
+| 🥈 **2nd Place** Blockchain for Impact (UNESCO ITEN & XRPL) | **KindQuest** | **Nov 2024** | [XRPL Hackathon (Paris HQ)](https://www.xrpl-commons.org/hackathons/blockchain-for-impact-innovating-the-social-economy) |
 
 ## 🌍 Let's Collaborate!
 
