@@ -1,71 +1,18 @@
-<h1 align="center">Hi 👋, I'm Eden</h1>
+<img src="assets/banner.jpg" width="100%" alt="" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edenbd1&label=Profile%20Views&color=29AFB3&style=flat-square" alt="Profile Views" />
-</p>
+I build privacy infrastructure and the products that make it usable.
 
----
+- protocols and cryptography
+- zero-knowledge & confidential compute
+- local-first software
+- p2p systems
+- AI
+- developer tools
 
-<!-- ================= BANNER TEST — à supprimer une fois le choix fait ================= -->
+My interest lies where hard technical systems become simple enough for people to actually use.
 
-### A — 2.35 : 1 (cinémascope, le plus haut)
+Presently building sovereign infrastructure on Logos. 15+ hackathon wins along the way.
 
-<img src="assets/banner-a.jpg" width="100%" alt="A 2.35:1" />
+[x.com/edenbdn](https://x.com/edenbdn)
 
-<br>
-
-### B — 2.70 : 1
-
-<img src="assets/banner-b.jpg" width="100%" alt="B 2.70:1" />
-
-<br>
-
-### C — 3.00 : 1  *(≈ nadaamd / weboko)*
-
-<img src="assets/banner-c.jpg" width="100%" alt="C 3:1" />
-
-<br>
-
-### D — 3.50 : 1
-
-<img src="assets/banner-d.jpg" width="100%" alt="D 3.5:1" />
-
-<br>
-
-### E — 4.00 : 1 (le plus fin, ultra-wide)
-
-<img src="assets/banner-e.jpg" width="100%" alt="E 4:1" />
-
-<br>
-
----
-
-## Même crop (D — 3.5:1), largeurs différentes
-
-**D1 — pleine largeur (100 %)**
-
-<img src="assets/banner-d.jpg" width="100%" alt="D1" />
-
-<br>
-
-**D2 — 720 px, centré**
-
-<p align="center"><img src="assets/banner-d.jpg" width="720" alt="D2" /></p>
-
-<br>
-
-**D3 — 560 px, centré**
-
-<p align="center"><img src="assets/banner-d.jpg" width="560" alt="D3" /></p>
-
-<br>
-
----
-
-## Version « propre » (ce que ça donnerait en vrai, sans les titres)
-
-<img src="assets/banner-c.jpg" width="100%" alt="banner" />
-
-**Eden — building at the edge of AI & crypto**
-
-<!-- ================= FIN BANNER TEST ================= -->
+<img src="https://komarev.com/ghpvc/?username=edenbd1&label=Profile%20Views&color=29AFB3&style=flat-square" alt="Profile Views" />
