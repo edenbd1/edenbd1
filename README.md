@@ -2,7 +2,7 @@
 
 My interest lies where hard technical systems become simple enough for people to actually use.
 
-Presently building sovereign infrastructure on Logos. 15+ hackathon wins along the way.
+Presently building sovereign infrastructure on Logos. 20+ hackathon wins along the way.
 
 https://x.com/edenbdn
 
